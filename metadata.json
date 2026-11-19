@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic AI Studio",
+  "description": "Automated AI filmmaking, character replacement, and cinematic video transformation studio with identity preservation and FFmpeg assembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
